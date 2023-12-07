@@ -1,7 +1,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
 @font-face {
     font-family: notoSansReg;
     src: url(../public/NotoSans-Regular.ttf);
